@@ -1,4 +1,3 @@
-# Proyecto-1er-Dept_JIAG
 # 🌦️ Sistema de Predicción Climática Nacional - Ingeniería de Datos
 
 Este proyecto integra datos de **CONAGUA, UNAM y SEMARNAT** para predecir eventos de lluvia en México utilizando Machine Learning y Deep Learning.
